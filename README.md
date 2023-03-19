@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-[*Game Presentation*](https://drive.google.com/file/d/1kMALYqhMI92c4mv7dYavA7wG9njj7VzZ/view) <br>
+[Game Presentation](https://drive.google.com/file/d/1kMALYqhMI92c4mv7dYavA7wG9njj7VzZ/view) <br>
 
 ***Short Description:*** 
 
