@@ -1,3 +1,8 @@
 # Tic-Tac-Toe
-- **PDF Presentation:** [Tic Tac Toe.pdf](https://drive.google.com/file/d/1kMALYqhMI92c4mv7dYavA7wG9njj7VzZ/view) <br><br>
+- **PDF Presentation:** [Tic Tac Toe.pdf](https://drive.google.com/file/d/1kMALYqhMI92c4mv7dYavA7wG9njj7VzZ/view) 
+- **PDF of Prototype & GUI Design (Greek):** [Tic Tac Toe Prototype+Design.pdf](https://drive.google.com/file/d/1HFUzeubUs8jgrqVNMCbdwAQyKXSBesvn/view?usp=sharing) 
+- **Game Appearance:**
+
+<img src="Images/GUI-Design.png" width="800">
+
 - **Short Description:** A neon-colored PC version of the well-known game "Tic Tac Toe". The game was created in **NeBeans**, programmed with **Java** and the GUI was designed with **JavaSwing**.
